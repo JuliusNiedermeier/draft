@@ -7,7 +7,6 @@ This is a minimal Next.js project demonstrating the use of draft mode. When draf
 First, install the dependencies:
 
 ```bash
-Code kopieren
 npm install
 # or
 yarn install
